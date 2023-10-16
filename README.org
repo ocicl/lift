@@ -4,6 +4,6 @@ LIsp Framework for Testing
 
 |---------+------------------------------------|
 | source  | git:https://github.com/gwkkwg/lift |
-| commit  | 979e1e7                            |
+| commit  | a794184                            |
 | systems | lift                               |
 |---------+------------------------------------|
